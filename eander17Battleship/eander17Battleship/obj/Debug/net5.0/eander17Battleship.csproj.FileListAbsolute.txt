@@ -1,0 +1,16 @@
+C:\Users\evana\OneDrive - Colorado Community College System\School\UCCS\C# programming\battleship project\eander17Battleship\eander17Battleship\bin\Debug\net5.0\eander17Battleship.exe
+C:\Users\evana\OneDrive - Colorado Community College System\School\UCCS\C# programming\battleship project\eander17Battleship\eander17Battleship\bin\Debug\net5.0\eander17Battleship.deps.json
+C:\Users\evana\OneDrive - Colorado Community College System\School\UCCS\C# programming\battleship project\eander17Battleship\eander17Battleship\bin\Debug\net5.0\eander17Battleship.runtimeconfig.json
+C:\Users\evana\OneDrive - Colorado Community College System\School\UCCS\C# programming\battleship project\eander17Battleship\eander17Battleship\bin\Debug\net5.0\eander17Battleship.runtimeconfig.dev.json
+C:\Users\evana\OneDrive - Colorado Community College System\School\UCCS\C# programming\battleship project\eander17Battleship\eander17Battleship\bin\Debug\net5.0\eander17Battleship.dll
+C:\Users\evana\OneDrive - Colorado Community College System\School\UCCS\C# programming\battleship project\eander17Battleship\eander17Battleship\bin\Debug\net5.0\ref\eander17Battleship.dll
+C:\Users\evana\OneDrive - Colorado Community College System\School\UCCS\C# programming\battleship project\eander17Battleship\eander17Battleship\bin\Debug\net5.0\eander17Battleship.pdb
+C:\Users\evana\OneDrive - Colorado Community College System\School\UCCS\C# programming\battleship project\eander17Battleship\eander17Battleship\obj\Debug\net5.0\eander17Battleship.csproj.AssemblyReference.cache
+C:\Users\evana\OneDrive - Colorado Community College System\School\UCCS\C# programming\battleship project\eander17Battleship\eander17Battleship\obj\Debug\net5.0\eander17Battleship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evana\OneDrive - Colorado Community College System\School\UCCS\C# programming\battleship project\eander17Battleship\eander17Battleship\obj\Debug\net5.0\eander17Battleship.AssemblyInfoInputs.cache
+C:\Users\evana\OneDrive - Colorado Community College System\School\UCCS\C# programming\battleship project\eander17Battleship\eander17Battleship\obj\Debug\net5.0\eander17Battleship.AssemblyInfo.cs
+C:\Users\evana\OneDrive - Colorado Community College System\School\UCCS\C# programming\battleship project\eander17Battleship\eander17Battleship\obj\Debug\net5.0\eander17Battleship.csproj.CoreCompileInputs.cache
+C:\Users\evana\OneDrive - Colorado Community College System\School\UCCS\C# programming\battleship project\eander17Battleship\eander17Battleship\obj\Debug\net5.0\eander17Battleship.dll
+C:\Users\evana\OneDrive - Colorado Community College System\School\UCCS\C# programming\battleship project\eander17Battleship\eander17Battleship\obj\Debug\net5.0\ref\eander17Battleship.dll
+C:\Users\evana\OneDrive - Colorado Community College System\School\UCCS\C# programming\battleship project\eander17Battleship\eander17Battleship\obj\Debug\net5.0\eander17Battleship.pdb
+C:\Users\evana\OneDrive - Colorado Community College System\School\UCCS\C# programming\battleship project\eander17Battleship\eander17Battleship\obj\Debug\net5.0\eander17Battleship.genruntimeconfig.cache

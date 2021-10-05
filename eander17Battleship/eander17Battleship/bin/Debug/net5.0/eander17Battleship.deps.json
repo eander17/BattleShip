@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "eander17Battleship/1.0.0": {
+        "runtime": {
+          "eander17Battleship.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "eander17Battleship/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
